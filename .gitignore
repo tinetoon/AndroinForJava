@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Игнорирование файлов специфичных для IDE
+.idea/
